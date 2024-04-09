@@ -1,0 +1,110 @@
+
+
+.Grid {
+    background-color: rgb(155, 155, 153);
+    border: "2px solid black";
+    /* border-radius: 12px; */
+  padding: 20px 0;
+  }
+  .MainGrid {
+    /* background-color: orange; */
+    /* border-radius: 12px; */
+  }
+  
+  .Container {
+    background-color: #9370db; Medium Purple
+    
+    /* height: 40vw; */
+    border-radius: 12px;
+    
+
+  
+  }
+  
+  .Item {
+    display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 15px;
+  }
+  .divider {
+    width: 100%;
+  }
+  
+  .titlediv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vw;
+  
+  }
+  
+  .title{
+  
+      font-size: 26px;
+    //  color: rgb(201, 194, 194);
+  
+  }
+
+  .button{
+    background-color: #9370db;
+
+  }
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Grid{
+    background-color: yellow;
+    border: '2px solid black';
+    border-radius: 12px;
+    
+    
+}
+.MainGrid{
+    background-color: orange;
+    border-radius: 12px;
+}
+
+.Item{
+    
+    background-color: #9370db; /* Medium Purple */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* padding-top: 15px; */
+    
+    /* border-radius: 12px; */
+    /* height: 40vw; */
+/* } */
+/* .divider{ */
+    /* width: 100%; */
+
+/* } */
+
+/* .title{ */
+/* text-align: center; */
+/* display: flex; */
+/* justify-content: center; */
+/* align-items: center; */
+/* background-color: beige; */
+
+/* } */
+
+
+
+ /* */ 
+/*  */
